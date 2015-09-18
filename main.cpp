@@ -2,6 +2,7 @@
 
 int main()
 {
+// This program is just an example one under VCS.
     int a,b;
     cout << "Enter A and B";
     cin >> a >> b ;
